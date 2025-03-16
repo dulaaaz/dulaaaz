@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🚀 Hey there, I'm Abdullah Hussain!  <br><br> 🎓 **Third-Year Computer Science Student @ Carleton University**  <br> 📊 **Data Science | Machine Learning | Analytics**  <br><br>💡 **Turning Data into Insights & Building Intelligent Models**  <br>🧠 **Exploring Advanced Machine Learning & AI Applications**  <br>🏆 **Winner @ HackTheTunnels 2024**  <br><br>🔥 *Always exploring, analyzing, and building smarter solutions!*  <br>
+### 🚀 Hey there, I'm Abdullah Hussain!  <br><br> 🎓 **Third-Year Computer Science Student @ Carleton University**  <br> 📊 **Data Science | Machine Learning | Analytics**  <br><br>💡 **Turning Data into Insights & Building Intelligent Models**  <br>🧠 **Exploring Advanced Machine Learning & AI Applications**  <br>🏆 **Winner @ CuHacking'25 & HackTheTunnels 2024**  <br><br>🔥 *Always exploring, analyzing, and building smarter solutions!*  <br>
 
 
 # 💻 Tech Stack:
